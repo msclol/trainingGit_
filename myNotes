@@ -1,0 +1,9 @@
+****Commandes utiles*****
+
+Faire un push vers la branche Master après changement:
+git push --set-upstream origin master
+
+Faire un add de tous les changements:
+git add -A
+
+
